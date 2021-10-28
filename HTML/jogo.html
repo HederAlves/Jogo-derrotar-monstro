@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.">
+	<title>Jogando</title>
+	<link rel="stylesheet" href="reset.css">
+	<link rel="stylesheet" href="../CSS/style.css">
+</head>
+<body>
+	<header>
+		<ul class="cabecalho">
+			<li>
+				<label>
+					<h1>Jogador</h1>
+				</label>
+				<div id="visorVidaJogador" class="visorVida" data-vida-jogador>
+					100
+				</div>
+			</li>
+			<div id="fimDeJogo"></div>
+			<li>
+				<label>
+					<h1>Monstro</h1>
+				</label>
+				<div id="visorVidaMonstro" class="visorVida" data-vida-monstro>
+					100
+				</div>
+			</li>
+		</ul>
+	</header>
+	<main>
+		<h2>Comando</h2>
+		<ul class="comando">
+			<li>
+				<button class="botaoAtaque" data-botao-ataque onclick="comandos.botaoAtaque()">Ataque</button>
+			</li>
+			<li>
+				<button class="botaoAtaqueEspecial" data-botao-ataqueEspecial onclick="comandos.botaoAtaqueEspecial()">Ataque especial</button>
+			</li>
+			<li>
+				<button class="botaoCurar" data-botao-curar onclick="comandos.botaoCurar()">Curar</button>
+			</li>
+			<li>
+				<a href="index.html">
+				<button class="botaoDesistir">Desistir</button>
+			</li>
+		</ul>
+	</main>
+	<footer>
+		<div class="log" id="log" data-log></div>
+	</footer>
+	<script src="index.js"></script>
+</body>
+</html>
