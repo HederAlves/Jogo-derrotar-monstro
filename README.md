@@ -38,7 +38,7 @@ Aplicação
 
  -Iniciar Jogo (chama a tela de Jogo);
 
- -Jogo;
+ Jogo;
 Regras / funcionalidades a serem consideradas:
 Para os componentes de controle do jogo (barra de HP, logs, labels e botões) devem ser utilizando apenas CSS e/ou JavaScript, não devem ser utilizado nenhuma outra lib/plugin/component de terceiros. ATENÇÃO ESSA REGRA VALE APENAS PARA A TELA DE JOGOS E SEUS COMPONENTES;
 A aplicação deve estar disponível ao executar 'npm run start' ou ‘ng serve’.
