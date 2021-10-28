@@ -59,9 +59,10 @@ main {
 }
 
 .log {
-	padding: 5px;
+	box-sizing: border-box;
+	margin: 20px;
+	line-height: 1.5;
 	font-size: 20px;
-	background: gray;
 	color: black;
 }
 
