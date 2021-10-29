@@ -1,6 +1,6 @@
 # Jogo-derrotar-monstro
 
-Abaixo estão as instruções do desafio referente a vaga de front-end anunciada por esta instituição, segue avaliação prática e regras.
+Abaixo estão as instruções.
 
 Tecnologias a serem utilizadas:
 Node (>=8);
