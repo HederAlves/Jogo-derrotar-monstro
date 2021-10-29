@@ -1,20 +1,6 @@
 # Jogo-derrotar-monstro
 
-Conforme informado acima, abaixo estão as instruções do desafio referente a vaga de front-end anunciada por esta instituição, segue avaliação prática e regras.
-
- 
-
-            Prazo para entrega: 12hrs do dia 28/10/2021
-
-            Forma de entrega: Um link do repositório GitLab, com a implementação da avaliação, deve ser enviada para os contatos.
-
-            E-mail para dúvidas e entrega: marcos.celani@fpf.br
-
-           
-
- 
-
-           
+Abaixo estão as instruções do desafio referente a vaga de front-end anunciada por esta instituição, segue avaliação prática e regras.
 
 Tecnologias a serem utilizadas:
 Node (>=8);
